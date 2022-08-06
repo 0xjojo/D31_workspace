@@ -1,2 +1,4 @@
 int main {
-int x = 10;}
+int x = 10;
+for (int i=0;;)
+{}}
